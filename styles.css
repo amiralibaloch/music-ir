@@ -1,0 +1,47 @@
+body{
+    background-color: #eef5ff;
+    justify-content: center;
+    justify-items: center;
+    padding: 70px;
+}
+.form-music{
+    width: 0;
+    display: flex;
+    border: none;
+    background-color: white;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+}
+h2{
+    text-align: center;
+}
+button{
+    width: 100%;
+    color: white;
+    background-color: #006bff;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+}
+.search-menu{
+    background-color: #eef5ff;
+    border: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+input{
+    text-align: right;
+    padding: 10px;
+}
+::placeholder{
+    font-size: 13px;
+}
+input{
+    background-color: white;
+    width: 50%;
+    border-radius: 5px;
+    border: none;
+}

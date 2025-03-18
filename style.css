@@ -1,0 +1,33 @@
+body{
+    background-color: #eef5ff;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    padding: 250px;
+}
+fieldset{
+    width: 0;
+    display: flex;
+    border: none;
+    background-color: white;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+}
+input{
+    text-align: right;
+    padding: 4px;
+}
+form{
+    text-align: center;
+}
+a{
+
+    color: white;
+    background-color: #006bff;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
